@@ -125,11 +125,6 @@ cette ligne permet l'application des régles du prettier/linter à chaque sauveg
 </details>
 
 
-
-
-
-
-
 # Passer son application React en PWA
 <details>
 Passer son application en PWA avec React ne demande pas beaucoup de travail
@@ -191,7 +186,7 @@ avec yarn :
 
 # Mise en place Notifications Push
 
- <!-- <details> -->
+ <details> 
 Dans un premier temps il faut vérifier que notre navigateur soit compatible, pour cela nous allons créer une petite fonction dans notre dossier ```utils``` nommer le fichier ```isPushNotificationSupported.js```
 
 ```utils/isPushNotificationSupported.js```
@@ -215,7 +210,7 @@ export default askUserPermission
 
 ```
 
-<!-- </details> -->
+ </details> 
 
 # Mise en place StoryBook
 <details>
