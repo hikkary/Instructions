@@ -15,11 +15,11 @@ il faut ensuite installer les paquets suivants :
 
 avec yarn :
 
-```yarn add eslint babel-eslint prettier-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react --dev```
+```yarn add babel-eslint prettier-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react --dev```
 
 ou npm : 
 
-``` npm i eslint babel-eslint prettier-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react --save-dev ```
+``` npm i babel-eslint prettier-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-react --save-dev ```
 
 Pour voir ce que font les packages en details:
 
