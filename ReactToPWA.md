@@ -2,6 +2,13 @@
 # Passer son application React en PWA
 Passer son application en PWA avec React ne demande pas beaucoup de travail
 
+### SUITE A UNE MISE À JOUR DE CREATE-REACT-APP IL FAUT EFFECTUER UNE COMMANDE DIFFERENTE POUR TRANSFORMER FACILEMENT SON APP EN PWA
+
+```
+npx create-react-app my-app --template pwa
+```
+
+
 la configuration est déja faite, il suffit juste d'activer l'options.
 
 Pour ce faire dans aller dans le fichier ```src/index.js```
